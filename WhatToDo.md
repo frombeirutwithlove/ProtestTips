@@ -91,38 +91,27 @@ In some jurisdictions, officers can compel you to provide your fingerprint but n
 ### Minimize location tracking on your phone
 - Keep as little sensitive personal information as possible
 - Turn off location history:
-iPhone: Settings > Privacy > Location Services > System Services > Significant Locations
-Android: Settings > Google > Google Account > Data & personalization > Location History > Manage setting > Your account & all your devices > Use Location History Off
-Google Maps: Settings > Maps history > Web & App Activity
+  * iPhone: Settings > Privacy > Location Services > System Services > Significant Locations
+  * Android: Settings > Google > Google Account > Data & personalization > Location History > Manage setting > Your account & all your devices > Use Location History Off
+* Google Maps: Settings > Maps history > Web & App Activity
 - Delete past location history:
-
-iPhone: Settings > Privacy > Location Services > System Services > Significant Locations > Clear History
-
-Android (https://support.google.com/accounts/answer/3118687?hl=en#delete)
-
-Google Maps (https://support.google.com/maps/answer/3137804?hl=en)
+  * iPhone: Settings > Privacy > Location Services > System Services > Significant Locations > Clear History
+  * [Android](https://support.google.com/accounts/answer/3118687?hl=en#delete)
+  * [Google Maps](https://support.google.com/maps/answer/3137804?hl=en)
 - Delete search history from your browser:
-
-Chrome (https://support.google.com/chrome/answer/95589?co=GENIE.Platform%3DAndroid&hl=en-GB)
-
-Safari (https://support.apple.com/en-us/HT201265)
-
-Firefox iOS and Android (https://support.mozilla.org/en-US/kb/clear-browsing-history-firefox-ios) (https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
+  * [Chrome](https://support.google.com/chrome/answer/95589?co=GENIE.Platform%3DAndroid&hl=en-GB)
+  * [Safari](https://support.apple.com/en-us/HT201265)
+  * [Firefox iOS](https://support.mozilla.org/en-US/kb/clear-browsing-history-firefox-ios) and [Android](https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
 - Log out of accounts and apps that you will not need. 
 - Consider turning off all location services temporarily:
-
-iPhone: Settings > Privacy > Location Services > Location Services Off
-
-Android: Security & location > Location > Use location Off
+  * iPhone: Settings > Privacy > Location Services > Location Services Off
+  * Android: Security & location > Location > Use location Off
 
 ### Other
 - Double check your messaging apps privacy settings.
 - Turn off message previews in your notifications:
-
-iOS: Settings > Notifications > Show Previews: When Unlocked
-
-Android: Settings > Apps & notifications > Notifications > On lock screen: Hide sensitive content
-
+  * iOS: Settings > Notifications > Show Previews: When Unlocked
+  * Android: Settings > Apps & notifications > Notifications > On lock screen: Hide sensitive content
 - Use end-to-end encrypted apps like Signal or Whatsapp for messages and calls. Turn on disappearing messages 
 if your messaging app supports it.
 - Take photos and videos without unlocking your device
