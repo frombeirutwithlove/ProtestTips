@@ -93,7 +93,7 @@ In some jurisdictions, officers can compel you to provide your fingerprint but n
 - Turn off location history:
   * iPhone: Settings > Privacy > Location Services > System Services > Significant Locations
   * Android: Settings > Google > Google Account > Data & personalization > Location History > Manage setting > Your account & all your devices > Use Location History Off
-* Google Maps: Settings > Maps history > Web & App Activity
+  * Google Maps: Settings > Maps history > Web & App Activity
 - Delete past location history:
   * iPhone: Settings > Privacy > Location Services > System Services > Significant Locations > Clear History
   * [Android](https://support.google.com/accounts/answer/3118687?hl=en#delete)
@@ -119,7 +119,7 @@ if your messaging app supports it.
 - Consider purchasing a case that has a ring or loop on it to keep your device securely in your hands. Especially if you are documenting the protest.
 
 
-Additional Resources
+### Additional Resources
 
 https://library.witness.org/product/filming-in-teams-protests-demonstrations-rallies/
 
