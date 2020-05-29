@@ -8,7 +8,6 @@ with Hong Kong and Chile protesters, we wanted to extend ours to others._
 
 
 ## Protest safety, tear gas, and other hacks
-
 _Protests can be an overwhelming experience when you are alone, so make sure – when possible – 
 to go with a friend or with a small group. You are safer when you stay together._
 
@@ -80,3 +79,48 @@ need to get to safety. That’s why having a buddy doing lookout is necessary.
 - When filming an arrest, ask clearly and loudly that the person being arrested yells out their name. 
 - If you are documenting celebrations, destruction, burning, consider sending the video to someone who is away from the protest so they can blur and/or remove faces from the footage. In the USA there is a history of arrest weeks and months after the protest.
 
+## Digital Tips
+
+- Draft a message to a trusted friend (not at protest) or legal hotline. 
+Be ready to hit send if you are arrested/there is an emergency. Samsung devices have an SOS mode that does this.
+- Be sure your phone is charged. Bring a portable battery.
+- If you use biometrics unlock (thumbprint or facial recognition), immediately power off your phone if you're arrested. 
+In some jurisdictions, officers can compel you to provide your fingerprint but not your passcode. Better yet, turn off fingerprint or face ID before going to a protest.
+- Practice turning off your phone, that is when its the most secure. Also practice initiating the panic/emergency/lock-down mode for iPhone and Android . These modes will  temporarily disable biometrics (face/finger unlock) from working.
+
+### Minimize location tracking on your phone
+- Keep as little sensitive personal information as possible
+- Turn off location history:
+iPhone: Settings > Privacy > Location Services > System Services > Significant Locations
+Android: Settings > Google > Google Account > Data & personalization > Location History > Manage setting > Your account & all your devices > Use Location History Off
+Google Maps: Settings > Maps history > Web & App Activity
+- Delete past location history:
+iPhone: Settings > Privacy > Location Services > System Services > Significant Locations > Clear History
+Android (https://support.google.com/accounts/answer/3118687?hl=en#delete)
+Google Maps (https://support.google.com/maps/answer/3137804?hl=en)
+- Delete search history from your browser:
+Chrome (https://support.google.com/chrome/answer/95589?co=GENIE.Platform%3DAndroid&hl=en-GB)
+Safari (https://support.apple.com/en-us/HT201265)
+Firefox iOS and Android (https://support.mozilla.org/en-US/kb/clear-browsing-history-firefox-ios) (https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
+- Log out of accounts and apps that you will not need. 
+- Consider turning off all location services temporarily:
+iPhone: Settings > Privacy > Location Services > Location Services Off
+Android: Security & location > Location > Use location Off
+
+### Other
+- Double check your messaging apps privacy settings.
+- Turn off message previews in your notifications:
+iOS: Settings > Notifications > Show Previews: When Unlocked
+Android: Settings > Apps & notifications > Notifications > On lock screen: Hide sensitive content
+- Use end-to-end encrypted apps like Signal or Whatsapp for messages and calls. Turn on disappearing messages 
+if your messaging app supports it.
+- Take photos and videos without unlocking your device
+- If the police ask to see your phone, you can tell them that you do not consent to a search of your device. They might still be able to seize your phone and search it later, with a warrant, but at least it will be clear that you did not give them permission to do so.
+- Consider purchasing a case that has a ring or loop on it to keep your device securely in your hands. Especially if you are documenting the protest.
+
+
+Additional Resources
+https://library.witness.org/product/filming-in-teams-protests-demonstrations-rallies/
+https://www.witness.org/portfolio_page/filming-protests-and-police-abuse/
+https://ssd.eff.org/en/module/attending-protest	
+https://github.com/narwhalacademy/zebra-crossing 
