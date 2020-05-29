@@ -121,6 +121,9 @@ if your messaging app supports it.
 
 Additional Resources
 https://library.witness.org/product/filming-in-teams-protests-demonstrations-rallies/
+
 https://www.witness.org/portfolio_page/filming-protests-and-police-abuse/
+
 https://ssd.eff.org/en/module/attending-protest	
+
 https://github.com/narwhalacademy/zebra-crossing 
