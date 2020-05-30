@@ -27,11 +27,11 @@ therefore try to remain calm. Panic is contagious._
 
 ### What to keep in your bag 
 - A bandana or mask cloth and a small bottle of cider vinegar (keep in mind that this should help 
-you for the short period of time you would need to get upwind or reach higher grounds). Soak bandana in water+vinegar if around tear gas. 
+you for the short period of time you would need to get upwind or reach higher grounds). Soak bandana in water+vinegar if around tear gas. Beware that prolonged inhalation will irritate lungs.
 - Keep cut onions with you to inhale if teargas gets on your face.
 - Soda: Drinking soda usually helps instead of water because it’s acidic. You can also wash your face with soda. 
 - A dry change of clothes inside a plastic bag in your bag- so you can change in case you get wet.
-- Keep extra bandanas and change yours if it's exposed to tear gas.
+- Keep extra bandanas and change yours immediately if it's exposed to tear gas. Soak in water+vinegar. 
 - First aid help to treat yourself or others.
 - Portable battery for your phone. 
 
@@ -44,19 +44,25 @@ or damaging your bike/car. If you can walk to the protest, do it.
 - Don’t go back home alone, police/undercover police may be waiting for you. 
 - Once you get out of the protest - hide anything that may show that you were actually attending a protest (flags/banners/wet 
 clothing) 
-- Once tear gas is deployed, get upwind or find higher ground and remember to breathe calmly. Drinking or 
-washing your face with water after you get exposed to teargas will exacerbate the stinging symptoms, not alleviate them. 
-Do not rub your face. If you are wearing contact lenses, remove them immediately.
 - If attacked by riot police DO NOT RUN, try to cover yourself and move away calmly (if with a group try 
 to form a circle and back away together).
 - If you are using a gas mask, make sure to change the filters every day.
 - If you forget to turn off your location settings, take meandering routes to confuse your phone’s location 
 in case police are looking at phone location data. 
 
+### If you're hit with tear gas
+- Once tear gas is deployed, get upwind or find higher ground and remember to breathe calmly. 
+- If you are wearing contact lenses, remove them immediately. Do not rub your face. 
+- Drinking or washing your face with water after you get exposed to teargas will exacerbate the stinging symptoms, not alleviate them. 
+- Wash from inside corner out - otherwise you will be washing chemicals into your eye. Tilt head sideways and wash from the corner out - never into the corner.
+- Use cider vigar or soda to wash chemicals out.
+- Milk or no milk? Tear gas and the chemiclas used in the past few years have evolved, and milk hasn't shown to have a significant effect on relieving pain.  
+
 ### When you’re home
-- Get out of all your clothes and wash them separately in cold water.
-- Take a shower, making sure you let cold water wash over your eyes until the stinging is gone, soap and 
-cold water should get rid of the chemicals from your skin. 
+- Take a shower, making sure you let cold water wash over your eyes until the stinging is gone. Soap and 
+cold water should get rid of the chemicals from your skin. Hot water can make the burning worse. 
+- Get out of all your clothes and wash them separately in cold water. You might need to wash them several times to get rid
+of the chemicals.
 
 ## In the event of a media blackout 
 _What happens if you’re on the streets but there are no media outlets covering? 
@@ -88,15 +94,25 @@ need to get to safety. That’s why having a buddy doing lookout is necessary.
 
 ## Digital Tips
 
+_The police have very sophisticated surveillance equipment. Assume you are always being watched and tracked. Here are some general digital safety tips to minimize risk as much as possible._
+
+- Use end-to-end encrypted apps like Signal or Whatsapp for messages and calls. Turn on disappearing messages 
+if your messaging app supports it. Avoid regular SMS/calls as it's possible for police to intercept it. 
+- If you use biometrics unlock (thumbprint or facial recognition), immediately power off your phone if you're arrested. 
+In some jurisdictions, officers can compel you to provide your fingerprint but not your passcode. 
+- Better yet, turn off fingerprint or face ID before going to a protest.
 - Draft a message to a trusted friend (not at protest) or legal hotline. 
 Be ready to hit send if you are arrested/there is an emergency. Samsung devices have an SOS mode that does this.
 - Be sure your phone is charged. Bring a portable battery.
-- If you use biometrics unlock (thumbprint or facial recognition), immediately power off your phone if you're arrested. 
-In some jurisdictions, officers can compel you to provide your fingerprint but not your passcode. Better yet, turn off fingerprint or face ID before going to a protest.
 - Practice turning off your phone, that is when its the most secure. Also practice initiating the panic/emergency/lock-down mode for iPhone and Android . These modes will  temporarily disable biometrics (face/finger unlock) from working.
+- Take photos and videos without unlocking your device
+- If the police ask to see your phone, tell them that you do not consent to a search of your device. They might still be able to seize your phone and search it later, with a warrant, but at least it will be clear that you did not give them permission to do so.
 
 ### Minimize location tracking on your phone
-- Keep as little sensitive personal information as possible
+_Police have all kinds of technology to track you and your phone. If at all possible, keep your phone at home and don't bring it to the protests. If you can't, here are some tips to minimize location tracking._
+
+- If you have a faraday bag, bring it and keep your phone in. If you want to make your own, here is [a guide](https://www.instructables.com/id/EASIEST-FARADAY-PHONE-POUCH/).
+- Keep as little sensitive personal information as possible on your phone.
 - Turn off location history:
   * iPhone: Settings > Privacy > Location Services > System Services > Significant Locations
   * Android: Settings > Google > Google Account > Data & personalization > Location History > Manage setting > Your account & all your devices > Use Location History Off
@@ -119,10 +135,6 @@ In some jurisdictions, officers can compel you to provide your fingerprint but n
 - Turn off message previews in your notifications:
   * iOS: Settings > Notifications > Show Previews: When Unlocked
   * Android: Settings > Apps & notifications > Notifications > On lock screen: Hide sensitive content
-- Use end-to-end encrypted apps like Signal or Whatsapp for messages and calls. Turn on disappearing messages 
-if your messaging app supports it.
-- Take photos and videos without unlocking your device
-- If the police ask to see your phone, you can tell them that you do not consent to a search of your device. They might still be able to seize your phone and search it later, with a warrant, but at least it will be clear that you did not give them permission to do so.
 - Consider purchasing a case that has a ring or loop on it to keep your device securely in your hands. Especially if you are documenting the protest.
 
 
