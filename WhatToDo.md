@@ -7,7 +7,7 @@ We recognize that our experiences and lived realities are different, but in the 
 with Hong Kong and Chile protesters, we wanted to extend ours to others._
 
 
-## Protest safety, tear gas, and other hacks
+## Protest safety, tear gas, and other hacks ✊🏾
 _Protests can be an overwhelming experience when you are alone, so make sure – when possible – 
 to go with a friend or with a small group. You are safer when you stay together._
 
@@ -17,7 +17,7 @@ and makes it difficult to breathe. Tear gas exposure can cause confusion, panic,
 therefore try to remain calm. Panic is contagious._
 
 
-### What to wear
+### What to wear 🥾
 - Generally, avoid exposed skin. If you can, wear goggles, long sleeve shirts, long pants, strong shoes that you can run in.
 - Tight-fitting swim goggles/tight ski goggles.
 - Wear glasses instead of contacts if at all possible. If you get pepper spray or tear gas in your eyes, remove contacts immediately before rinsing. 
@@ -25,7 +25,7 @@ therefore try to remain calm. Panic is contagious._
 - Use helmets (especially if you have a medical condition).
 - Avoid wearing lotion or oils on your skin. Pepper spray and tear gas stick to it and burn. 
 
-### What to keep in your bag 
+### What to keep in your bag 🎒
 - A bandana or mask cloth and a small bottle of cider vinegar (keep in mind that this should help 
 you for the short period of time you would need to get upwind or reach higher grounds). Soak bandana in water+vinegar if around tear gas. Beware that prolonged inhalation will irritate lungs.
 - Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protestors in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context. 
@@ -35,7 +35,7 @@ you for the short period of time you would need to get upwind or reach higher gr
 - First aid help to treat yourself or others.
 - Portable battery for your phone. 
 
-### Behavioral safety tips
+### Behavioral safety tips 
 - Do not park your car/bike close to the protest site to prevent police from scanning your license plate 
 or damaging your bike/car. If you can walk to the protest, do it. 
 - Stay in pairs or in a small group of people so that they would notice in case you’re missing or get arrested.
@@ -67,6 +67,12 @@ cold water should get rid of the chemicals from your skin. Hot water can make th
 - Get out of all your clothes and wash them separately in cold water. You might need to wash them several times to get rid
 of the chemicals.
 
+### If you get arrested
+- You can refuse to ID yourself. In times of mass arrest, refusing to identify yourself can slow down the arrest and charge process, and you might get released after a night in jail without formal charges. 
+- You do not have to answer any questions, and can ask for a lawyer: “I want my attorney and I choose to remain silent” and then refuse questioning until you have a chance to talk to a lawyer.
+- If the police ask to see your phone, tell them that you do not consent to a search of your device. They might still seize your phone and search it later, with a warrant, but you would have made it clear that you did not give them permission to do so.
+- If the police ask for the password to unlock your phone (or ask you to unlock it yourself), you can refuse and ask to speak to your lawyer. 
+
 ## In the event of a media blackout 
 _What happens if you’re on the streets but there are no media outlets covering? 
 With no mainstream media keeping the authorities in check and covering in real time, police and 
@@ -95,7 +101,7 @@ need to get to safety. That’s why having a buddy doing lookout is necessary.
 - When filming an arrest, ask clearly and loudly that the person being arrested yells out their name. 
 - If you are documenting celebrations, destruction, burning, consider sending the video to someone who is away from the protest so they can blur and/or remove faces from the footage. In the USA, there is a history of arrest weeks and months after the protest.
 
-## Digital Tips
+## Digital Tips 🔒
 
 _The police have very sophisticated surveillance equipment. Assume you are always being watched and tracked. Here are some general digital safety tips to minimize risk as much as possible._
 
@@ -132,6 +138,10 @@ _Police have all kinds of technology to track you and your phone. If at all poss
 - Consider turning off all location services temporarily:
   * iPhone: Settings > Privacy > Location Services > Location Services Off
   * Android: Security & location > Location > Use location Off
+
+### If your device is confiscated
+- A lawyer can file a motion for the return of your property if it is not being held as evidence in a pending case.
+- You can revoke access for some services that are logged in on your phone. Also, you can simply change your password, which will automatically get the app to log out. Beware that revoking law enforcement access or remotely deleting data can expose you to the risk of being charged with obstruction of justice or the destruction of evidence. You should always speak to your attorney first before deciding how to proceed.
 
 ### Other
 - Double check your messaging apps privacy settings.
