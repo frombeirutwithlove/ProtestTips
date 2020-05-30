@@ -28,7 +28,7 @@ therefore try to remain calm. Panic is contagious._
 ### What to keep in your bag 🎒
 - A bandana or mask cloth and a small bottle of cider vinegar (keep in mind that this should help 
 you for the short period of time you would need to get upwind or reach higher grounds). Soak bandana in water+vinegar if around tear gas. Beware that prolonged inhalation will irritate lungs.
-- Mix water and Maalox (which is an anti-acid) in equal doses and have it ready in case of tear gas, for yourself or others.
+- Mix water and Maalox (which is an anti-acid) in equal doses and have it ready in case of tear gas, for yourself or others. Only use aluminum hydroxide or magnesium hydroxide based antacids. Only use plain, mint or other flavors will burn. 
 - Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protestors in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context. 
 - Soda: Drinking soda usually helps instead of water. You can also wash your face with soda. 
 - A dry change of clothes inside a plastic bag in your bag- so you can change in case you get wet.
