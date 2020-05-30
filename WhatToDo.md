@@ -73,34 +73,6 @@ of the chemicals.
 - If the police ask to see your phone, tell them that you do not consent to a search of your device. They might still seize your phone and search it later, with a warrant, but you would have made it clear that you did not give them permission to do so.
 - If the police ask for the password to unlock your phone (or ask you to unlock it yourself), you can refuse and ask to speak to your lawyer. 
 
-## In the event of a media blackout 
-_What happens if you’re on the streets but there are no media outlets covering? 
-With no mainstream media keeping the authorities in check and covering in real time, police and 
-military are likely to take more brutal measures against protesters. Here are the best tips from 
-Lebanese protesters involved in the October revolution._
-
-### Going live on social media 
-- Use the platform that will reach the most of your intended audience. 
-In the US, Twitter use is more important than Facebook use, so make sure you weigh the trade-offs when 
-you decide which platform you’re using when you go live. 
-- Try to keep your phone down if riot police are heavily deployed to avoid them noticing you’re filming. 
-The sounds will still be clear in your live coverage.
-- If you’re live on Facebook, the video will be saved in case it is interrupted by arrest or by locking the phone.
-- If you’re live on Instagram and get interrupted, the video won’t be saved to your story for 24 hours and you won’t have the option to save it to your phone. That’s why Facebook live is a better option.
-- If you want to go live on Twitter from your phone, you will have to download Periscope. Keep in mind that Periscope’s video quality is less clear than Facebook’s. 
-
-### Filming police abuse and arrests
-- Charge your phone and keep a portable charger. Your phone is all you’ll need. 
-Your camera can be cumbersome and heavy when you need to start running. Keep it at home. 
-- Identify yourself and the time, date, and location. If your location services are off, 
-film intersections or street corners to identify the location and newspapers or some other media with the date and time. 
-- Don’t film alone, always have a buddy protecting your back when things get heated. 
-When riot police come charging at you while you’re filming, your adrenaline will be too high for you to notice you 
-need to get to safety. That’s why having a buddy doing lookout is necessary. 
-- Make sure to film angles and if you can, conduct eye-witness interviews (make sure to ask for permission first). 
-- When filming an arrest, ask clearly and loudly that the person being arrested yells out their name. 
-- If you are documenting celebrations, destruction, burning, consider sending the video to someone who is away from the protest so they can blur and/or remove faces from the footage. In the USA, there is a history of arrest weeks and months after the protest.
-
 ## Digital Tips 🔒
 
 _The police have very sophisticated surveillance equipment. Assume you are always being watched and tracked. Here are some general digital safety tips to minimize risk as much as possible._
@@ -150,13 +122,56 @@ _Police have all kinds of technology to track you and your phone. If at all poss
   * Android: Settings > Apps & notifications > Notifications > On lock screen: Hide sensitive content
 - Consider purchasing a case that has a ring or loop on it to keep your device securely in your hands. Especially if you are documenting the protest.
 
+## In the event of a media blackout 
+_What happens if you’re on the streets but there are no media outlets covering? 
+With no mainstream media keeping the authorities in check and covering in real time, police and 
+military are likely to take more brutal measures against protesters. Here are the best tips from 
+Lebanese protesters involved in the October revolution._
 
-### Additional Resources
+### Going live on social media 
+- Use the platform that will reach the most of your intended audience. 
+In the US, Twitter use is more important than Facebook use, so make sure you weigh the trade-offs when 
+you decide which platform you’re using when you go live. 
+- Try to keep your phone down if riot police are heavily deployed to avoid them noticing you’re filming. 
+The sounds will still be clear in your live coverage.
+- If you’re live on Facebook, the video will be saved in case it is interrupted by arrest or by locking the phone.
+- If you’re live on Instagram and get interrupted, the video won’t be saved to your story for 24 hours and you won’t have the option to save it to your phone. That’s why Facebook live is a better option.
+- If you want to go live on Twitter from your phone, you will have to download Periscope. Keep in mind that Periscope’s video quality is less clear than Facebook’s. 
+
+### Filming police abuse and arrests
+- Charge your phone and keep a portable charger. Your phone is all you’ll need. 
+Your camera can be cumbersome and heavy when you need to start running. Keep it at home. 
+- In the US, it is legal to film the police as long as you don't interfere and comply if asked to back up.
+- Police should not ask you to delete videos.
+- If safe, film details like police badges, license plates, weapons, etc.
+- Identify yourself and the time, date, and location. If your location services are off, 
+film intersections or street corners to identify the location and newspapers or some other media with the date and time. 
+- Don’t film alone, always have a buddy protecting your back when things get heated. 
+When riot police come charging at you while you’re filming, your adrenaline will be too high for you to notice you 
+need to get to safety. That’s why having a buddy doing lookout is necessary. 
+- Make sure to film angles and if you can, conduct eye-witness interviews (make sure to ask for permission first). 
+- When filming an arrest, ask clearly and loudly that the person being arrested yells out their name. 
+- If you are documenting celebrations, destruction, burning, consider sending the video to someone who is away from the protest so they can blur and/or remove faces from the footage. In the USA, there is a history of arrest weeks and months after the protest.
+
+
+
+
+## Additional Resources
+
+### Filming
 
 https://library.witness.org/product/filming-in-teams-protests-demonstrations-rallies/
 
 https://www.witness.org/portfolio_page/filming-protests-and-police-abuse/
 
+https://blog.witness.org/2017/02/tips-livestreaming-protests-united-states/
+
+### Protests and your rights
+
 https://ssd.eff.org/en/module/attending-protest	
+
+https://www.vice.com/en_us/article/kze8dy/how-to-prepare-and-stay-safe-while-you-protest
+
+https://www.eff.org/issues/know-your-rights
 
 https://github.com/narwhalacademy/zebra-crossing 
