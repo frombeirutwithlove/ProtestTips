@@ -44,7 +44,7 @@ or damaging your bike/car. If you can walk to the protest, do it.
 - If attacked by riot police DO NOT RUN, try to cover yourself and move away calmly (if with a group try 
 to form a circle and back away together).
 - Try to remain on the outer circles, so you can easily get out and move out of danger if things get heated.
-- In *NYC specifically*, undercover police are easily spotted as having a white band around their arm, like [this](https://twitter.com/ZackBornstein/status/1266547600330600448?s=20).
+- In **NYC specifically**, undercover police are easily spotted as having a white band around their arm, like [this](https://twitter.com/ZackBornstein/status/1266547600330600448?s=20).
 - Once you get out of the protest - hide anything that may show that you were actually attending a protest (flags/banners/wet 
 clothing) 
 - Don’t go back home alone, police/undercover police may be waiting for you. 
@@ -92,7 +92,7 @@ When riot police come charging at you while you’re filming, your adrenaline wi
 need to get to safety. That’s why having a buddy doing lookout is necessary. 
 - Make sure to film angles and if you can, conduct eye-witness interviews (make sure to ask for permission first). 
 - When filming an arrest, ask clearly and loudly that the person being arrested yells out their name. 
-- If you are documenting celebrations, destruction, burning, consider sending the video to someone who is away from the protest so they can blur and/or remove faces from the footage. In the USA there is a history of arrest weeks and months after the protest.
+- If you are documenting celebrations, destruction, burning, consider sending the video to someone who is away from the protest so they can blur and/or remove faces from the footage. In the USA, there is a history of arrest weeks and months after the protest.
 
 ## Digital Tips
 
@@ -106,7 +106,7 @@ In some jurisdictions, officers can compel you to provide your fingerprint but n
 - Draft a message to a trusted friend (not at protest) or legal hotline. 
 Be ready to hit send if you are arrested/there is an emergency. Samsung devices have an SOS mode that does this.
 - Be sure your phone is charged. Bring a portable battery.
-- Practice turning off your phone, that is when its the most secure. Also practice initiating the panic/emergency/lock-down mode for iPhone and Android . These modes will  temporarily disable biometrics (face/finger unlock) from working.
+- Practice turning off your phone, that is when its the most secure. Also practice initiating the panic/emergency/lock-down mode for iPhone and Android. These modes will temporarily disable biometrics (face/finger unlock) from working.
 - Take photos and videos without unlocking your device
 - If the police ask to see your phone, tell them that you do not consent to a search of your device. They might still be able to seize your phone and search it later, with a warrant, but at least it will be clear that you did not give them permission to do so.
 
