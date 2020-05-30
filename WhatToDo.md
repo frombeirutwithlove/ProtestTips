@@ -29,7 +29,7 @@ therefore try to remain calm. Panic is contagious._
 - A bandana or mask cloth and a small bottle of cider vinegar (keep in mind that this should help 
 you for the short period of time you would need to get upwind or reach higher grounds). Soak bandana in water+vinegar if around tear gas. Beware that prolonged inhalation will irritate lungs.
 - Keep cut onions with you to inhale if teargas gets on your face.
-- Soda: Drinking soda usually helps instead of water because it’s acidic. You can also wash your face with soda. 
+- Soda: Drinking soda usually helps instead of water. You can also wash your face with soda. 
 - A dry change of clothes inside a plastic bag in your bag- so you can change in case you get wet.
 - Keep extra bandanas and change yours immediately if it's exposed to tear gas. Soak in water+vinegar. 
 - First aid help to treat yourself or others.
@@ -39,13 +39,15 @@ you for the short period of time you would need to get upwind or reach higher gr
 - Do not park your car/bike close to the protest site to prevent police from scanning your license plate 
 or damaging your bike/car. If you can walk to the protest, do it. 
 - Stay in pairs or in a small group of people so that they would notice in case you’re missing or get arrested.
-- Write a lawyer’s phone number on your arm with a marker and YELL OUT YOUR NAME, in case you’re arrested.
 - Decide on an exit strategy/meet up point with your group in case you get separated. 
-- Don’t go back home alone, police/undercover police may be waiting for you. 
-- Once you get out of the protest - hide anything that may show that you were actually attending a protest (flags/banners/wet 
-clothing) 
+- Write a lawyer’s phone number on your arm with a marker and YELL OUT YOUR NAME, in case you’re arrested.
 - If attacked by riot police DO NOT RUN, try to cover yourself and move away calmly (if with a group try 
 to form a circle and back away together).
+- Try to remain on the outer circles, so you can easily get out and move out of danger if things get heated.
+- In *NYC specifically*, undercover police are easily spotted as having a white band around their arm, like [this](https://twitter.com/ZackBornstein/status/1266547600330600448?s=20).
+- Once you get out of the protest - hide anything that may show that you were actually attending a protest (flags/banners/wet 
+clothing) 
+- Don’t go back home alone, police/undercover police may be waiting for you. 
 - If you are using a gas mask, make sure to change the filters every day.
 - If you forget to turn off your location settings, take meandering routes to confuse your phone’s location 
 in case police are looking at phone location data. 
