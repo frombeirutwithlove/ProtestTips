@@ -16,22 +16,28 @@ the mucous membrane of the eyes, nose, mouth and lungs. This causes your eyes to
 and makes it difficult to breathe. Tear gas exposure can cause confusion, panic, anger, and other psychological effects, 
 therefore try to remain calm. Panic is contagious._
 
-### What to keep in your bag
+
+### What to wear
+- Generally, avoid exposed skin. If you can, wear goggles, long sleeve shirts, long pants, strong shoes that you can run in.
+- Tight-fitting swim goggles/tight ski goggles.
+- Wear glasses instead of contacts if at all possible. If you get pepper spray or tear gas in your eyes, remove contacts immediately before rinsing. 
+- Wear normal shoes to protect your feet in case people start throwing bottles/rocks- do not wear sandals.
+- Use helmets (especially if you have a medical condition).
+- Avoid wearing lotion or oils on your skin. Pepper spray and tear gas stick to it and burn. 
+
+### What to keep in your bag 
 - A bandana or mask cloth and a small bottle of cider vinegar (keep in mind that this should help 
-you for the short period of time you would need to get upwind or reach higher grounds)
-- Tight-fitting swim goggles/tight ski goggles
-- Keep cut onions with you to inhale if teargas gets on your face
+you for the short period of time you would need to get upwind or reach higher grounds). Soak bandana in water+vinegar if around tear gas. 
+- Keep cut onions with you to inhale if teargas gets on your face.
 - Soda: Drinking soda usually helps instead of water because it’s acidic. You can also wash your face with soda. 
-- Try to keep a dry change of clothes inside a plastic bag in your bag- so you can change in case you get wet.
-- Wear helmets (especially if you have a medical condition).
+- A dry change of clothes inside a plastic bag in your bag- so you can change in case you get wet.
+- Keep extra bandanas and change yours if it's exposed to tear gas.
+- First aid help to treat yourself or others.
 - Portable battery for your phone. 
 
-
-### General tips
+### Behavioral safety tips
 - Do not park your car/bike close to the protest site to prevent police from scanning your license plate 
 or damaging your bike/car. If you can walk to the protest, do it. 
-- If you forget to turn off your location settings, take meandering routes to confuse your phone’s location 
-in case police are looking at phone location data. 
 - Stay in pairs or in a small group of people so that they would notice in case you’re missing or get arrested.
 - Write a lawyer’s phone number on your arm with a marker and YELL OUT YOUR NAME, in case you’re arrested.
 - Decide on an exit strategy/meet up point with your group in case you get separated. 
@@ -43,8 +49,9 @@ washing your face with water after you get exposed to teargas will exacerbate th
 Do not rub your face. If you are wearing contact lenses, remove them immediately.
 - If attacked by riot police DO NOT RUN, try to cover yourself and move away calmly (if with a group try 
 to form a circle and back away together).
-- Wear normal shoes to protect your feet in case people started throwing bottles/rocks- do not wear sandals.
 - If you are using a gas mask, make sure to change the filters every day.
+- If you forget to turn off your location settings, take meandering routes to confuse your phone’s location 
+in case police are looking at phone location data. 
 
 ### When you’re home
 - Get out of all your clothes and wash them separately in cold water.
