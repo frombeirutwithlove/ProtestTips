@@ -61,6 +61,7 @@ in case police are looking at phone location data.
 - Wash from inside corner out - otherwise you will be washing chemicals into your eye. Tilt head sideways and wash from the corner out - never into the corner.
 - Use cider vigar, soda, or Maalox-water mix to wash chemicals out.
 - Milk or no milk? Tear gas and the chemiclas used in the past few years have evolved, and milk hasn't shown to have a significant effect on relieving pain.  
+- Street traffic cones can be a good hack to use and cover tear gas cannisters. The top of the cone is usually open, and you can pour water through to diffuse the can.
 
 ### When you’re home
 - Take a shower, making sure you let cold water wash over your eyes until the stinging is gone. Soap and 
@@ -72,7 +73,7 @@ of the chemicals.
 - You can refuse to ID yourself. In times of mass arrest, refusing to identify yourself can slow down the arrest and charge process, and you might get released after a night in jail without formal charges. 
 - You do not have to answer any questions, and can ask for a lawyer: “I want my attorney and I choose to remain silent” and then refuse questioning until you have a chance to talk to a lawyer.
 - If the police ask to see your phone, tell them that you do not consent to a search of your device. They might still seize your phone and search it later, with a warrant, but you would have made it clear that you did not give them permission to do so.
-- If the police ask for the password to unlock your phone (or ask you to unlock it yourself), you can refuse and ask to speak to your lawyer. 
+- If the police ask for the password to unlock your phone (or ask you to unlock it yourself), you have the right to refuse and ask to speak to your lawyer. 
 
 ## Digital Tips 🔒
 
@@ -122,6 +123,7 @@ _Police have all kinds of technology to track you and your phone. If at all poss
   * iOS: Settings > Notifications > Show Previews: When Unlocked
   * Android: Settings > Apps & notifications > Notifications > On lock screen: Hide sensitive content
 - Consider purchasing a case that has a ring or loop on it to keep your device securely in your hands. Especially if you are documenting the protest.
+- Protect your info online. Photos will be circulating online, and trolls have a habit of trying to identifying protestors and targeting them. Make sure your social accounts are secure. 
 
 ## In the event of a media blackout 
 _What happens if you’re on the streets but there are no media outlets covering? 
