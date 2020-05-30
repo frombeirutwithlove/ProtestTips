@@ -51,6 +51,7 @@ clothing)
 - If you are using a gas mask, make sure to change the filters every day.
 - If you forget to turn off your location settings, take meandering routes to confuse your phone’s location 
 in case police are looking at phone location data. 
+- If you are arrested and the police ask for a DNA swab, you have the right to refuse. If you are offered a drink, cigarette or gum in the precinct, it is most likely a trick to steal your DNA. This has been a practice in [NY specifically](https://t.co/ay46AbGxZV?amp=1), and probably elsewhere as well. 
 
 ### If you're hit with tear gas
 - Once tear gas is deployed, get upwind or find higher ground and remember to breathe calmly. 
