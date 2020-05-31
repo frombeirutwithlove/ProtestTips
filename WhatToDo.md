@@ -46,6 +46,7 @@ or damaging your bike/car. If you can walk to the protest, do it.
 to form a circle and back away together).
 - Try to remain on the outer circles, so you can easily get out and move out of danger if things get heated.
 - In **NYC specifically**, undercover police are easily spotted as having a white band around their arm, like [this](https://twitter.com/ZackBornstein/status/1266547600330600448?s=20).
+- Some undercover cops might encourage protestors to be violent. Don't get provoked.
 - Once you get out of the protest - hide anything that may show that you were actually attending a protest (flags/banners/wet 
 clothing) 
 - Don’t go back home alone, police/undercover police may be waiting for you. 
