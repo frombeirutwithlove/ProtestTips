@@ -30,7 +30,7 @@ therefore try to remain calm. Panic is contagious._
 you for the short period of time you would need to get upwind or reach higher grounds). Soak bandana in water+vinegar if around tear gas. Beware that prolonged inhalation will irritate lungs.
 - Mix water and Maalox (which is an anti-acid) in equal doses and have it ready in case of tear gas, for yourself or others.
 - Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protestors in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context. 
-- Soda: Drinking soda usually helps instead of water. You can also wash your face with soda. 
+- Soda: Drinking soda can help instead of water. You can also wash your face with soda. 
 - A dry change of clothes inside a plastic bag in your bag- so you can change in case you get wet.
 - Keep extra bandanas and change yours immediately if it's exposed to tear gas. Soak in water+vinegar. 
 - First aid help to treat yourself or others.
@@ -59,8 +59,8 @@ in case police are looking at phone location data.
 - If you are wearing contact lenses, remove them immediately. Do not rub your face. 
 - Drinking or washing your face with water after you get exposed to teargas can exacerbate the stinging symptoms, not alleviate them. 
 - Wash from inside corner out - otherwise you will be washing chemicals into your eye. Tilt head sideways and wash from the corner out - never into the corner.
-- Use cider vigar, soda, or Maalox-water mix to wash chemicals out.
-- Milk or no milk? Tear gas and the chemiclas used in the past few years have evolved, and milk hasn't shown to have a significant effect on relieving pain.  
+- Use cider vigar, soda, saline water, or Maalox-water mix to wash chemicals out.
+- Milk or no milk? Not as effective against tear gas, but works to alleviate skin irritation if hit with pepper spray / mace. If you use milk for your eyes, make sure to follow it with saline water / maalox-water. 
 - Street traffic cones can be a good hack to use and cover tear gas cannisters. The top of the cone is usually open, and you can pour water through to diffuse the can.
 
 ### When you’re home
