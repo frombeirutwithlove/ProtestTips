@@ -1,6 +1,8 @@
 # From Beirut To Minneapolis
 ## A protest guide in solidarity
 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 _In solidarity with protesters in Minneapolis and other American cities, Lebanese technologists, 
 protesters, and activists put together this document as a guide for escalating protests and documenting police abuse. 
 We recognize that our experiences and lived realities are different, but in the same way that we’ve found solidarity 
