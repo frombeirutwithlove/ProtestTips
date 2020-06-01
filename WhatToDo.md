@@ -16,6 +16,10 @@ the mucous membrane of the eyes, nose, mouth and lungs. This causes your eyes to
 and makes it difficult to breathe. Tear gas exposure can cause confusion, panic, anger, and other psychological effects, 
 therefore try to remain calm. Panic is contagious._
 
+### Determining whether it is safe to attend a protest
+- Physically attending a protest introduces many risks from physical safety to increased surveillance of you and your community 
+- Being at a protest can lead to arrest or other legal consequences that can put non-citizens at risk of deportation 
+- When thinking about whether to attend a protest consider both the impact it can have on yourself and others
 
 ### What to wear 🥾
 - Generally, avoid exposed skin. If you can, wear goggles, long sleeve shirts, long pants, strong shoes that you can run in.
@@ -31,7 +35,7 @@ therefore try to remain calm. Panic is contagious._
 you for the short period of time you would need to get upwind or reach higher grounds). You can keep a soaked bandana with water+vinegar in a plastic bag, to be prepared for tear gas. Beware that prolonged inhalation will irritate lungs.
 - Mix water and Maalox (which is an anti-acid) in equal doses and have it ready in case of tear gas, for yourself or others.
 - Milk. It can help alleviate burning skin if pepper sprayed. Read more below (what to do if tear gassed)
-- Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protestors in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context. 
+- Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protesters in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context. 
 - Soda: Drinking soda can help instead of water. You can also wash your face with soda. 
 - A dry change of clothes inside a plastic bag in your bag- so you can change in case you get wet.
 - Keep extra bandanas and change yours immediately if it's exposed to tear gas. Soak in water+vinegar. 
@@ -48,13 +52,13 @@ or damaging your bike/car. If you can walk to the protest, do it.
 to form a circle and back away together).
 - Try to remain on the outer circles, so you can easily get out and move out of danger if things get heated.
 - In **NYC specifically**, undercover police are easily spotted as having a white band around their arm, like [this](https://twitter.com/ZackBornstein/status/1266547600330600448?s=20).
-- Some undercover cops might encourage protestors to be violent. Don't get provoked.
+- Some undercover cops might encourage protesters to be violent. Don't get provoked.
 - Once you get out of the protest - hide anything that may show that you were actually attending a protest (flags/banners/wet 
 clothing) 
 - Don’t go back home alone, police/undercover police may be waiting for you. 
 - If you are using a gas mask, make sure to change the filters every day.
 - If you forget to turn off your location settings, take meandering routes to confuse your phone’s location 
-in case police are looking at phone location data. 
+in case police are looking at phone location data.
 - If you are arrested and the police ask for a DNA swab, you have the right to refuse. If you are offered a drink, cigarette or gum in the precinct, it is most likely a trick to steal your DNA. This has been a practice in [NY specifically](https://t.co/ay46AbGxZV?amp=1), and probably elsewhere as well. 
 
 ### If you're hit with tear gas / pepper spray
@@ -84,7 +88,8 @@ _The police have very sophisticated surveillance equipment. Assume you are alway
 
 - Use end-to-end encrypted apps like Signal or Whatsapp for messages and calls. Turn on disappearing messages 
 if your messaging app supports it. Avoid regular SMS/calls as it's possible for police to intercept it. 
-- If you use biometrics unlock (thumbprint or facial recognition), immediately power off your phone if you're arrested. 
+- Even if you are using an end-to-end encrypted communication app, be careful about sharing sensitive details about yourself, people at the protest, or protest organizing, especially with anyone you do not personally know and trust
+- If you use biometrics unlock (thumbprint or facial recognition), immediately power off your phone if you're arrested. Both iPhones (emergency SOS mode) and phones with Android Pie or newer (lockdown mode) have a way to turn off face or fingerprint unlock without turning off your phone
 In some jurisdictions, officers can compel you to provide your fingerprint but not your passcode. 
 - Better yet, turn off fingerprint or face ID before going to a protest.
 - Draft a message to a trusted friend (not at protest) or legal hotline. 
@@ -93,6 +98,24 @@ Be ready to hit send if you are arrested/there is an emergency. Samsung devices 
 - Practice turning off your phone, that is when its the most secure. Also practice initiating the panic/emergency/lock-down mode for iPhone and Android. These modes will temporarily disable biometrics (face/finger unlock) from working.
 - Take photos and videos without unlocking your device
 - If the police ask to see your phone, tell them that you do not consent to a search of your device. They might still be able to seize your phone and search it later, with a warrant, but at least it will be clear that you did not give them permission to do so.
+
+### Phone Tracking and Contact Tracing
+- Police can generally track protest attendance and protester locations in two main ways:
+  * Cell phone data ([this article has more details](https://recompilermag.com/issues/issue-8/demystifying-cellular-communication-a-gentle-introduction-to-cellular-networks/)):
+    * Each cell phone will have a unique device ID that police can correlate with cell phone provider records to track location or that can be used to track location in real-time 
+    * US police have been known to use IMSI-catchers/stingrays to capture a list of devices/people at protests
+    * With less typical pedestrian traffic during COVID-19, it is likely cell phone data would more 
+  * Mobile phone location data:
+    * Mobile phones use GPS to get location data (linked to the location permission)
+    * US police have requested location data based on a time and place from tech companies to determine a list of "suspects" to investigate
+    * For US protesters, expect any US-based tech company or application that collects location data to be legally obligated to turn over that data to law enforcement upon request
+- With COVID-19, location tracking surveillance has expanded to do "contact tracing"
+  * Contact tracing is used to track who could be carrying a disease while asymptomatic and is based on whom someone who tests postive has come in contact with
+  * [Minneapolis has publicly noted they are conducting contact tracing on arrested protesters](https://twitter.com/NBCNews/status/1266758240018276352)
+  * Depending on what information is available, contact tracing can be used to identify 
+- If at all possible, it is best to not have a cell phone with you at a protest. If you need to bring a cell phone and are concerned about vulnerable members of your community you see regularly:
+  * Remove the cell phone battery, if possible, prior to arriving at the protest and only turn it on in the case of an amergency
+  * Bring a temporary phone that has not been used or turned on in the vicinty of where you live or the vulnerable community members and securely destroy it or dispose of it before heading home
 
 ### Minimize location tracking on your phone
 _Police have all kinds of technology to track you and your phone. If at all possible, keep your phone at home and don't bring it to the protests. If you can't, here are some tips to minimize location tracking._
@@ -103,11 +126,11 @@ _Police have all kinds of technology to track you and your phone. If at all poss
   * iPhone: Settings > Privacy > Location Services > System Services > Significant Locations
   * Android: Settings > Google > Google Account > Data & personalization > Location History > Manage setting > Your account & all your devices > Use Location History Off
   * Google Maps: Settings > Maps history > Web & App Activity
-- Delete past location history:
+- Delete past location history to protect against phone seizure:
   * iPhone: Settings > Privacy > Location Services > System Services > Significant Locations > Clear History
   * [Android](https://support.google.com/accounts/answer/3118687?hl=en#delete)
   * [Google Maps](https://support.google.com/maps/answer/3137804?hl=en)
-- Delete search history from your browser:
+- Delete search history from your browser to protect against phone seizure:
   * [Chrome](https://support.google.com/chrome/answer/95589?co=GENIE.Platform%3DAndroid&hl=en-GB)
   * [Safari](https://support.apple.com/en-us/HT201265)
   * [Firefox iOS](https://support.mozilla.org/en-US/kb/clear-browsing-history-firefox-ios) and [Android](https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
@@ -120,13 +143,22 @@ _Police have all kinds of technology to track you and your phone. If at all poss
 - A lawyer can file a motion for the return of your property if it is not being held as evidence in a pending case.
 - You can revoke access for some services that are logged in on your phone. Also, you can simply change your password, which will automatically get the app to log out. Beware that revoking law enforcement access or remotely deleting data can expose you to the risk of being charged with obstruction of justice or the destruction of evidence. You should always speak to your attorney first before deciding how to proceed.
 
+### General phone hygiene
+_Phone and communication security (e.g., using Signal or WhatsApp) is generally very good and above the technical ability of governments to break. Law enforcement and governments will focus on infiltrating a protester network by compromising a person or device. The following are tips to make it more difficult to have your device compromised_
+- Backup your phone before attending a protest in case you need to wipe your phone after a protest due to unusual activity
+- Keep your device and applications up-to-date. Key security updates are essential to making it more difficult to compromise your device
+- Do jailbreak or root the phone that you bring to a protest
+- Be careful about what apps you install on your phone. There have been reports of governments collecting data from an application installed from a phone's legitimate app store.
+- Try to minimize the use of your phone at a protest
+- There has been evidence of governments using spyware to monitor protesters and activists and is something to be aware of. Generally a user will need to click on a link or open an attachment to install the spyware.
+
 ### Other
 - Double check your messaging apps privacy settings.
 - Turn off message previews in your notifications:
   * iOS: Settings > Notifications > Show Previews: When Unlocked
   * Android: Settings > Apps & notifications > Notifications > On lock screen: Hide sensitive content
 - Consider purchasing a case that has a ring or loop on it to keep your device securely in your hands. Especially if you are documenting the protest.
-- Protect your info online. Photos will be circulating online, and trolls have a habit of trying to identifying protestors and targeting them. Make sure your social accounts are secure. 
+- Protect your info online. Photos will be circulating online, and trolls have a habit of trying to identifying protesters and targeting them. Make sure your social accounts are secure. 
 
 ## In the event of a media blackout 
 _What happens if you’re on the streets but there are no media outlets covering? 
@@ -174,7 +206,7 @@ https://blog.witness.org/2017/02/tips-livestreaming-protests-united-states/
 
 ### Protests and your rights
 
-https://ssd.eff.org/en/module/attending-protest	
+https://ssd.eff.org/en/module/attending-protest 
 
 https://www.vice.com/en_us/article/kze8dy/how-to-prepare-and-stay-safe-while-you-protest
 
