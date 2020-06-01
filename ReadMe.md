@@ -17,9 +17,9 @@ and makes it difficult to breathe. Tear gas exposure can cause confusion, panic,
 therefore try to remain calm. Panic is contagious._
 
 ### Determining whether it is safe to attend a protest
-- Physically attending a protest introduces many risks from physical safety to increased surveillance of you and your community 
-- Being at a protest can lead to arrest or other legal consequences that can put non-citizens at risk of deportation 
-- When thinking about whether to attend a protest consider both the impact it can have on yourself and others
+- Physically attending a protest introduces many risks from physical safety to increased surveillance of you and your community. 
+- Being at a protest can lead to arrest or other legal consequences that can put non-citizens at risk of deportation.
+- When thinking about whether to attend a protest, consider both the impact it can have on yourself and others.
 
 ### What to wear 🥾
 - Generally, avoid exposed skin. If you can, wear goggles, long sleeve shirts, long pants, strong shoes that you can run in.
@@ -33,12 +33,13 @@ therefore try to remain calm. Panic is contagious._
 ### What to keep in your bag 🎒
 - A bandana or mask cloth and a small bottle of cider vinegar (for tear gas, keep in mind that this should help 
 you for the short period of time you would need to get upwind or reach higher grounds). You can keep a soaked bandana with water+vinegar in a plastic bag, to be prepared for tear gas. Beware that prolonged inhalation will irritate lungs.
-- Mix water and Maalox (which is an anti-acid) in equal doses and have it ready in case of tear gas, for yourself or others.
-- Milk. It can help alleviate burning skin if pepper sprayed. Read more below (what to do if tear gassed)
-- Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protesters in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context. 
+- Keep extra bandanas and change yours immediately if it's exposed to tear gas. Soak in water+vinegar. 
+- Saline water, to treat tear gas.
+- Mix water and Maalox (which is an anti-acid) in equal doses and have it ready, to treat tear gas.
+- Milk. It can help alleviate burning skin if pepper sprayed. NOT for eyes. Read more below (what to do if tear gassed).
+- Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protesters in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context.
 - Soda: Drinking soda can help instead of water. You can also wash your face with soda. 
 - A dry change of clothes inside a plastic bag in your bag- so you can change in case you get wet.
-- Keep extra bandanas and change yours immediately if it's exposed to tear gas. Soak in water+vinegar. 
 - First aid help to treat yourself or others.
 - Portable battery for your phone. 
 
@@ -62,12 +63,16 @@ in case police are looking at phone location data.
 - If you are arrested and the police ask for a DNA swab, you have the right to refuse. If you are offered a drink, cigarette or gum in the precinct, it is most likely a trick to steal your DNA. This has been a practice in [NY specifically](https://t.co/ay46AbGxZV?amp=1), and probably elsewhere as well. 
 
 ### If you're hit with tear gas / pepper spray
+_Mace and pepper spray are  mostly the same thing. Mace is a brand name. Most Mace products today are OC based, with OC being the active capsicum ingredient in pepper spray.
+Tear gas used in the US is mostly aerosolized CS powder._
+
 - Once tear gas is deployed, get upwind or find higher ground and remember to breathe calmly. 
 - If you are wearing contact lenses, remove them immediately. Do not rub your face. 
-- Drinking or washing your face with water after you get exposed to teargas can exacerbate the stinging symptoms, not alleviate them. 
+- Washing your face with water after you get exposed to teargas can exacerbate the stinging symptoms, not alleviate them. 
 - Wash from inside corner out - otherwise you will be washing chemicals into your eye. Tilt head sideways and wash from the corner out - never into the corner.
 - Use cider vigar, soda, saline water, or Maalox-water mix to wash chemicals out.
-- Milk: not as effective against tear gas, but works to alleviate skin irritation and burn if hit with pepper spray / mace. If you use milk for your eyes, make sure to follow it with saline water / maalox-water. 
+- Milk: not as effective against tear gas, but works to alleviate skin irritation and burn if hit with pepper spray. If milk gets in your eyes, make sure to immediately wash it out with saline water. 
+- Hydrate: your body will try to flush the chemicals naturally, but to do so you must be well hydrated.
 - Street traffic cones can be a good hack to use and cover tear gas cannisters. The top of the cone is usually open, and you can pour water through to diffuse the can.
 
 ### When you’re home
