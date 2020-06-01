@@ -107,13 +107,13 @@ Be ready to hit send if you are arrested/there is an emergency. Samsung devices 
 ### Phone Tracking and Contact Tracing
 - Police can generally track protest attendance and protester locations in two main ways:
   * Cell phone data ([this article has more details](https://recompilermag.com/issues/issue-8/demystifying-cellular-communication-a-gentle-introduction-to-cellular-networks/)):
-    * Each cell phone will have a unique device ID that police can correlate with cell phone provider records to track location or that can be used to track location in real-time 
-    * US police have been known to use IMSI-catchers/stingrays to capture a list of devices/people at protests
-    * With less typical pedestrian traffic during COVID-19, it is likely cell phone data would more 
+    * Each cell phone will have a unique device ID that police can correlate with cell phone provider records to track location or that can be used to track location in real-time.
+    * US police have been known to use IMSI-catchers/stingrays to capture a list of devices/people at protests.
+    * With less typical pedestrian traffic during COVID-19, it is likely cell phone data would more.
   * Mobile phone location data:
-    * Mobile phones use GPS to get location data (linked to the location permission)
-    * US police have requested location data based on a time and place from tech companies to determine a list of "suspects" to investigate
-    * For US protesters, expect any US-based tech company or application that collects location data to be legally obligated to turn over that data to law enforcement upon request
+    * Mobile phones use GPS to get location data (linked to the location permission).
+    * US police have requested location data based on a time and place from tech companies to determine a list of "suspects" to investigate.
+    * For US protesters, expect any US-based tech company or application that collects location data to be legally obligated to turn over that data to law enforcement upon request.
 - With COVID-19, location tracking surveillance has expanded to do "contact tracing"
   * Contact tracing is used to track who could be carrying a disease while asymptomatic and is based on whom someone who tests postive has come in contact with
   * [Minneapolis has publicly noted they are conducting contact tracing on arrested protesters](https://twitter.com/NBCNews/status/1266758240018276352)
@@ -152,7 +152,7 @@ _Police have all kinds of technology to track you and your phone. If at all poss
 _Phone and communication security (e.g., using Signal or WhatsApp) is generally very good and above the technical ability of governments to break. Law enforcement and governments will focus on infiltrating a protester network by compromising a person or device. The following are tips to make it more difficult to have your device compromised_
 - Backup your phone before attending a protest in case you need to wipe your phone after a protest due to unusual activity
 - Keep your device and applications up-to-date. Key security updates are essential to making it more difficult to compromise your device
-- Do jailbreak or root the phone that you bring to a protest
+- Do not jailbreak or root the phone that you bring to a protest
 - Be careful about what apps you install on your phone. There have been reports of governments collecting data from an application installed from a phone's legitimate app store.
 - Try to minimize the use of your phone at a protest
 - There has been evidence of governments using spyware to monitor protesters and activists and is something to be aware of. Generally a user will need to click on a link or open an attachment to install the spyware.
@@ -200,6 +200,9 @@ need to get to safety. That’s why having a buddy doing lookout is necessary.
 
 
 ## Additional Resources
+
+### Medicine 
+https://riotmedicine.net/static/downloads/riot-medicine.pdf
 
 ### Filming
 
