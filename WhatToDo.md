@@ -24,10 +24,11 @@ therefore try to remain calm. Panic is contagious._
 - Wear normal shoes to protect your feet in case people start throwing bottles/rocks- do not wear sandals.
 - Use helmets (especially if you have a medical condition).
 - Avoid wearing lotion or oils on your skin. Pepper spray and tear gas stick to it and burn. 
+- Avoid jewelry, and anything that could get pulled or caught in something.
 
 ### What to keep in your bag 🎒
-- A bandana or mask cloth and a small bottle of cider vinegar (keep in mind that this should help 
-you for the short period of time you would need to get upwind or reach higher grounds). Soak bandana in water+vinegar if around tear gas. Beware that prolonged inhalation will irritate lungs.
+- A bandana or mask cloth and a small bottle of cider vinegar (for tear gas, keep in mind that this should help 
+you for the short period of time you would need to get upwind or reach higher grounds). You can keep a soaked bandana with water+vinegar in a plastic bag, to be prepared for tear gas. Beware that prolonged inhalation will irritate lungs.
 - Mix water and Maalox (which is an anti-acid) in equal doses and have it ready in case of tear gas, for yourself or others.
 - Milk. It can help alleviate burning skin if pepper sprayed. Read more below (what to do if tear gassed)
 - Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protestors in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context. 
@@ -40,7 +41,7 @@ you for the short period of time you would need to get upwind or reach higher gr
 ### Behavioral safety tips 
 - Do not park your car/bike close to the protest site to prevent police from scanning your license plate 
 or damaging your bike/car. If you can walk to the protest, do it. 
-- Stay in pairs or in a small group of people so that they would notice in case you’re missing or get arrested.
+- Stay in pairs or in a small group of people so that they would notice in case you’re missing or get arrested. Have a buddy system.
 - Decide on an exit strategy/meet up point with your group in case you get separated. 
 - Write a lawyer’s phone number on your arm with a marker and YELL OUT YOUR NAME, in case you’re arrested.
 - If attacked by riot police DO NOT RUN, try to cover yourself and move away calmly (if with a group try 
