@@ -52,7 +52,7 @@ or damaging your bike/car. If you can walk to the protest, do it.
 - If attacked by riot police DO NOT RUN, try to cover yourself and move away calmly (if with a group try 
 to form a circle and back away together).
 - Try to remain on the outer circles, so you can easily get out and move out of danger if things get heated.
-- In **NYC specifically**, undercover police are easily spotted as having a white band around their arm, like [this](https://twitter.com/ZackBornstein/status/1266547600330600448?s=20).
+- In **NYC specifically**, undercover police might be spotted if they are wearing the [color of the day](https://en.wikipedia.org/wiki/Color_of_the_day_(police)) on a band around their arm, like [this](https://twitter.com/ZackBornstein/status/1266547600330600448?s=20).  On one day that band might be white.  On another, it might be another color.
 - Some undercover cops might encourage protesters to be violent. Don't get provoked.
 - Once you get out of the protest - hide anything that may show that you were actually attending a protest (flags/banners/wet 
 clothing) 
