@@ -60,7 +60,7 @@ clothing)
 - If you are using a gas mask, make sure to change the filters every day.
 - If you forget to turn off your location settings, take meandering routes to confuse your phone’s location 
 in case police are looking at phone location data.
-- If you are arrested and the police ask for a DNA swab, you have the right to refuse. If you are offered a drink, cigarette or gum in the precinct, it is most likely a trick to steal your DNA. This has been a practice in [NY specifically](https://t.co/ay46AbGxZV?amp=1), and probably elsewhere as well. 
+
 
 ### If you're hit with tear gas / pepper spray
 _Mace and pepper spray are  mostly the same thing. Mace is a brand name. Most Mace products today are OC based, with OC being the active capsicum ingredient in pepper spray.
@@ -79,13 +79,15 @@ Tear gas used in the US is mostly aerosolized CS powder._
 - Take a shower, making sure you let cold water wash over your eyes until the stinging is gone. Soap and 
 cold water should get rid of the chemicals from your skin. Hot water can make the burning worse. 
 - Get out of all your clothes and wash them separately in cold water. You might need to wash them several times to get rid
-of the chemicals.
+of the chemicals, or discard them altogether. 
 
 ### If you get arrested
-- You can refuse to ID yourself. In times of mass arrest, refusing to identify yourself can slow down the arrest and charge process, and you might get released after a night in jail without formal charges. 
 - You do not have to answer any questions, and can ask for a lawyer: “I want my attorney and I choose to remain silent” and then refuse questioning until you have a chance to talk to a lawyer.
 - If the police ask to see your phone, tell them that you do not consent to a search of your device. They might still seize your phone and search it later, with a warrant, but you would have made it clear that you did not give them permission to do so.
 - If the police ask for the password to unlock your phone (or ask you to unlock it yourself), you have the right to refuse and ask to speak to your lawyer. 
+- If you are arrested and the police ask for a DNA swab, you have the right to refuse. If you are offered a drink, cigarette or gum in the precinct, it is most likely a trick to steal your DNA. This has been a practice in [NY specifically](https://t.co/ay46AbGxZV?amp=1), and probably elsewhere as well. 
+- You can refuse to ID yourself. In times of mass arrest, refusing to identify yourself can slow down the arrest and charge process, and you might get released after a night in jail without formal charges. 
+
 
 ## Digital Tips 🔒
 
@@ -93,8 +95,8 @@ _The police have very sophisticated surveillance equipment. Assume you are alway
 
 - Use end-to-end encrypted apps like Signal or Whatsapp for messages and calls. Turn on disappearing messages 
 if your messaging app supports it. Avoid regular SMS/calls as it's possible for police to intercept it. 
-- Even if you are using an end-to-end encrypted communication app, be careful about sharing sensitive details about yourself, people at the protest, or protest organizing, especially with anyone you do not personally know and trust
-- If you use biometrics unlock (thumbprint or facial recognition), immediately power off your phone if you're arrested. Both iPhones (emergency SOS mode) and phones with Android Pie or newer (lockdown mode) have a way to turn off face or fingerprint unlock without turning off your phone
+- Even if you are using an end-to-end encrypted communication app, be careful about sharing sensitive details about yourself, people at the protest, or protest organizing, especially with anyone you do not personally know and trust.
+- If you use biometrics unlock (thumbprint or facial recognition), immediately power off your phone if you're arrested. Both iPhones (emergency SOS mode) and phones with Android Pie or newer (lockdown mode) have a way to turn off face or fingerprint unlock without turning off your phone.
 In some jurisdictions, officers can compel you to provide your fingerprint but not your passcode. 
 - Better yet, turn off fingerprint or face ID before going to a protest.
 - Draft a message to a trusted friend (not at protest) or legal hotline. 
@@ -145,6 +147,7 @@ _Police have all kinds of technology to track you and your phone. If at all poss
   * Android: Security & location > Location > Use location Off
 
 ### If your device is confiscated
+- Don't consent to a search of your devices. Do not unlock your device for the police.
 - A lawyer can file a motion for the return of your property if it is not being held as evidence in a pending case.
 - You can revoke access for some services that are logged in on your phone. Also, you can simply change your password, which will automatically get the app to log out. Beware that revoking law enforcement access or remotely deleting data can expose you to the risk of being charged with obstruction of justice or the destruction of evidence. You should always speak to your attorney first before deciding how to proceed.
 
