@@ -111,7 +111,7 @@ Be ready to hit send if you are arrested/there is an emergency. Samsung devices 
   * Cell phone data ([this article has more details](https://recompilermag.com/issues/issue-8/demystifying-cellular-communication-a-gentle-introduction-to-cellular-networks/)):
     * Each cell phone will have a unique device ID that police can correlate with cell phone provider records to track location or that can be used to track location in real-time.
     * US police have been known to use IMSI-catchers/stingrays to capture a list of devices/people at protests.
-    * With less typical pedestrian traffic during COVID-19, it is likely cell phone data would more.
+    * With less typical pedestrian traffic during COVID-19, it is likely cell phone data can more easily identify people attending protests..
   * Mobile phone location data:
     * Mobile phones use GPS to get location data (linked to the location permission).
     * US police have requested location data based on a time and place from tech companies to determine a list of "suspects" to investigate.
