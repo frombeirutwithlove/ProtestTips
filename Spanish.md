@@ -1,4 +1,4 @@
-# Desde Beirut a Mineeapolis
+# Desde Beirut a Minneapolis
 ## Una guía para protestar en solidaridad
 
 _En solidaridad con las protestas en Minneapolis y otras ciudades americanas, varias tecnólogas, protestantes y activistas Libanesas han creado este documento como guía para intensificar las protestas y documentar el abuso policial. Reconocemos que nuestras experiencias y realidades vividas son diferentes, pero del mismo modo que hemos encontrado solidaridad con lxs protestantes de Hong Kong y Chile, queremos extender la nuestra a otrxs. En esta guía, encontrarán consejos y recursos de experiencias en el Líbano y America Latina._
@@ -188,44 +188,31 @@ Si quieres consultar más información sobre documentación de protestas, manife
 
 ### En Español
 
-Manifiesta primera línea Colombia 
-http://www.resumenlatinoamericano.org/2019/12/04/colombia-manifiesto-de-la-primera-linea/
+[Manifiesta primera línea Colombia](http://www.resumenlatinoamericano.org/2019/12/04/colombia-manifiesto-de-la-primera-linea/)
 
-Primera linea Chile 
-https://radio.uchile.cl/2020/01/23/la-primera-linea-y-todas-las-lineas-del-levantamiento-social-en-plaza-de-la-dignidad/
+[Primera linea Chile y todas las lineas del levantamiento] (https://radio.uchile.cl/2020/01/23/la-primera-linea-y-todas-las-lineas-del-levantamiento-social-en-plaza-de-la-dignidad/)
 
-Contract Tracing o Rastreo por Contactos
-https://web.karisma.org.co/aplicaciones-de-rastreo-digital-de-contactos-para-que-zapatos-si-no-hay-casa/
+[Contract Tracing o Rastreo por Contactos](https://web.karisma.org.co/aplicaciones-de-rastreo-digital-de-contactos-para-que-zapatos-si-no-hay-casa/)
 
-Witness: recursos para protestas en EEUU y América Latina
-https://es.witness.org/recursos/
+[Witness: recursos para protestas en EEUU y América Latina](https://es.witness.org/recursos/)
 
-Materiales de prevención
-https://informaterompeelmiedo.mx/materiales-de-prevencion/
+[Materiales de prevención](https://informaterompeelmiedo.mx/materiales-de-prevencion/)
 
-Apagones de Internet y censura en América Latina
-https://www.derechosdigitales.org/13924/apagones-de-internet-y-censura-en-america-latina/
+[Apagones de Internet y censura en América Latina](https://www.derechosdigitales.org/13924/apagones-de-internet-y-censura-en-america-latina/)
 
-Consejos de seguridad digital para líderes sociales
-https://web.karisma.org.co/tips-de-seguridad-digital-para-lideres-sociales/
+[Consejos de seguridad digital para líderes sociales](https://web.karisma.org.co/tips-de-seguridad-digital-para-lideres-sociales/)
 
-Consejos de seguridad digital durante protestas sociales
-https://derechosdigitales.tumblr.com/post/188499861341/consejos-de-seguridad-para-la-protesta-social-m%C3%A1s?fbclid=IwAR31FkVUUKDWLXxvFkWx97Ql281b3hSOcYZEjLdpfu3Km5vpdESQ_KV4rAE
+[Consejos de seguridad digital durante protestas sociales](https://derechosdigitales.tumblr.com/post/188499861341/consejos-de-seguridad-para-la-protesta-social-m%C3%A1s?fbclid=IwAR31FkVUUKDWLXxvFkWx97Ql281b3hSOcYZEjLdpfu3Km5vpdESQ_KV4rAE)
 
-Nois Radio: protocolos de protección y seguridad durante jornadas de paro
-https://www.facebook.com/photo.php?fbid=2619470714785108&set=pcb.2619470808118432&type=3&theater
+[Nois Radio: protocolos de protección y seguridad durante jornadas de paro](https://www.facebook.com/photo.php?fbid=2619470714785108&set=pcb.2619470808118432&type=3&theater)
 
-Nois Radio: como proteger tus archivos
-https://www.facebook.com/photo.php?fbid=2617335991665247&set=a.519481438117390&type=3&theater
+[Nois Radio: como proteger tus archivos](https://www.facebook.com/photo.php?fbid=2617335991665247&set=a.519481438117390&type=3&theater)
 
-Consejos de seguridad digital para medios de comunicación independientes
-https://www.derechosdigitales.org/wp-content/uploads/manual-medios-independientes-1.pdf
+[Consejos de seguridad digital para medios de comunicación independientes](https://www.derechosdigitales.org/wp-content/uploads/manual-medios-independientes-1.pdf)
 
-Recomendaciones de seguridad para antes, durante y después de una marcha o protesta
-https://socialtic.org/blog/recomendaciones-de-seguridad-para-antes-durante-y-despues-de-una-marcha-o-protesta/
+[Recomendaciones de seguridad para antes, durante y después de una marcha o protesta](https://socialtic.org/blog/recomendaciones-de-seguridad-para-antes-durante-y-despues-de-una-marcha-o-protesta/)
 
-Seguridad durante protestas en EEUU
-https://ssd.eff.org/es/module/asistiendo-las-protestas-estados-unidos
+[Seguridad durante protestas en EEUU](https://ssd.eff.org/es/module/asistiendo-las-protestas-estados-unidos)
 
 ### Medicina (en inglés)
 
