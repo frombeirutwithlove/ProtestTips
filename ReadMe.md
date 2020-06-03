@@ -37,7 +37,7 @@ _Kep in mind that the following tips on tear gas and pepper spray are based on o
 you for the short period of time you would need to get upwind or reach higher grounds). You can keep a soaked bandana with water+vinegar in a plastic bag, to be prepared for tear gas. Beware that prolonged inhalation will irritate lungs.
 - Keep extra bandanas and change yours immediately if it's exposed to tear gas. Soak in water+vinegar. 
 - Saline water, to treat tear gas.
-- Mix water and Maalox (which is an anti-acid) in equal doses and have it ready, to treat tear gas.
+- Mix water and Maalox (which is an anti-acid) in equal doses and have it ready, to treat tear gas. Only use aluminum hydroxide or magnesium hydroxide based antacids. Only use plain, mint or other flavors will burn. 
 - Milk. It can help alleviate burning skin if pepper sprayed. NOT for eyes. Read more below (what to do if tear gassed).
 - Keep cut onions with you to inhale if tear gas gets on your face. It worked well for some protesters in Lebanon because of the type of tear gas used. If possible, identify the tear gas used and that will allow you to figure out the best solutions for your context.
 - Soda: Drinking soda can help instead of water. You can also wash your face with soda. 
@@ -72,7 +72,8 @@ Tear gas used in the US is mostly aerosolized CS powder._
 - If you are wearing contact lenses, remove them immediately. Do not rub your face. 
 - Washing your face with water after you get exposed to teargas can exacerbate the stinging symptoms, not alleviate them. 
 - Wash from inside corner out - otherwise you will be washing chemicals into your eye. Tilt head sideways and wash from the corner out - never into the corner.
-- Use cider vigar, soda, saline water, or Maalox-water mix to wash chemicals out.
+- Use cider vigar, soda, saline water, or Maalox-water mix to wash chemicals out. 
+- Only use aluminum hydroxide or magnesium hydroxide based antacids. Only use plain, mint or other flavors will burn. 
 - Milk: not as effective against tear gas, but works to alleviate skin irritation and burn if hit with pepper spray. If milk gets in your eyes, make sure to immediately wash it out with saline water. 
 - Hydrate: your body will try to flush the chemicals naturally, but to do so you must be well hydrated.
 - Street traffic cones can be a good hack to use and cover tear gas cannisters. The top of the cone is usually open, and you can pour water through to diffuse the can.
