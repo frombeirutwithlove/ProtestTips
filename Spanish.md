@@ -190,7 +190,7 @@ Si quieres consultar más información sobre documentación de protestas, manife
 
 [Manifiesta primera línea Colombia](http://www.resumenlatinoamericano.org/2019/12/04/colombia-manifiesto-de-la-primera-linea/)
 
-[Primera linea Chile y todas las lineas del levantamiento] (https://radio.uchile.cl/2020/01/23/la-primera-linea-y-todas-las-lineas-del-levantamiento-social-en-plaza-de-la-dignidad/)
+[Primera linea Chile y todas las lineas del levantamiento](https://radio.uchile.cl/2020/01/23/la-primera-linea-y-todas-las-lineas-del-levantamiento-social-en-plaza-de-la-dignidad/)
 
 [Contract Tracing o Rastreo por Contactos](https://web.karisma.org.co/aplicaciones-de-rastreo-digital-de-contactos-para-que-zapatos-si-no-hay-casa/)
 
