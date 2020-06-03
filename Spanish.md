@@ -98,21 +98,21 @@ _La policía tiene un equipo muy sofisticado de vigilancia. Asume que siempre es
 ### Rastreo de teléfonos y Contact Tracing (seguimiento de contactos)
 _[Aquí](https://web.karisma.org.co/aplicaciones-de-rastreo-digital-de-contactos-para-que-zapatos-si-no-hay-casa/) encontrarás información sobre contact tracing en español._
 - En general, la policía puede rastrear a los asistentes de una protesta y su ubicación de dos maneras principales:
-* Datos del teléfono móvil ([en este artículo](https://recompilermag.com/issues/issue-8/demystifying-cellular-communication-a-gentle-introduction-to-cellular-networks/) encontrarás más detalles, en inglés, y en [este](https://myshadow.org/es/location-tracking), más en español):
-    * Cada teléfono tendrá una identificación específica que la policía podrá relacionar con los registros de ubicación del proveedor de telefonía, o que puede ser usada para determinar la ubicación en tiempo real.
-    * La policía de EEUU ha usado numerosas veces IMSI-catchers/rastreadores stingrays para elaborar una lista de dispositivos/personas presentes en las manifestaciones.
-    * Debido a la COVID-19, hay menos gente en la calle y es más fácil que los datos de ubicación de los teléfonos identifiquen a las personas que están en la manifestación.
-* Datos de ubicación en el teléfono móvil:
-    * Los teléfonos usan el GPS para conseguir los datos de ubicación (vinculados a los permisos de ubicación).
-    * La policía estadounidense ha solicitado los datos de ubicación en un determinado momento y lugar a diferentes empresas tecnológicas para elaborar una lista de “sospechosos” que investigar.
-    * En el caso concreto de las protestas en EEUU, las compañías tecnológicas asentadas en norteamérica, están obligadas legalmente a ceder a las autoridades todos los datos de ubicación que almacena, si estas lo solicitan.
+   * Datos del teléfono móvil ([en este artículo](https://recompilermag.com/issues/issue-8/demystifying-cellular-communication-a-gentle-introduction-to-cellular-networks/) encontrarás más detalles, en inglés, y en [este](https://myshadow.org/es/location-tracking), más en español):
+      * Cada teléfono tendrá una identificación específica que la policía podrá relacionar con los registros de ubicación del proveedor de telefonía, o que puede ser usada para determinar la ubicación en tiempo real.
+      * La policía de EEUU ha usado numerosas veces IMSI-catchers/rastreadores stingrays para elaborar una lista de dispositivos/personas presentes en las manifestaciones.
+      * Debido a la COVID-19, hay menos gente en la calle y es más fácil que los datos de ubicación de los teléfonos identifiquen a las personas que están en la manifestación.
+   * Datos de ubicación en el teléfono móvil:
+      * Los teléfonos usan el GPS para conseguir los datos de ubicación (vinculados a los permisos de ubicación).
+      * La policía estadounidense ha solicitado los datos de ubicación en un determinado momento y lugar a diferentes empresas tecnológicas para elaborar una lista de “sospechosos” que investigar.
+      * En el caso concreto de las protestas en EEUU, las compañías tecnológicas asentadas en norteamérica, están obligadas legalmente a ceder a las autoridades todos los datos de ubicación que almacena, si estas lo solicitan.
 - Debido a la situación de la COVID-19, la vigilancia a través del rastreo de ubicación ha evolucionado al “contact tracing” o rastreo de contactos.
     * El contact tracing se usa para rastrear quién podría portar la enfermedad de manera asintomática, y se basa en el círculo de contacto de aquellas personas que han dado positivo.
     * [Minneapolis ha anunciado públicamente que están aplicando contact tracing a protestantes arrestadas](https://twitter.com/NBCNews/status/1266758240018276352).
     * Dependiendo de la información disponible, el contact tracing puede ser usando para la identificación de individuales.
 - Si es posible, lo mejor es no llevar contigo tu móvil a las manifestaciones. Si necesitas llevarlo y te preocupan los miembros vulnerables de tu comunidad, a los que ves con regularidad:
-* Quita la batería de tu móvil, si puedes, antes de llegar al lugar de la protesta y enciéndelo solo en caso de emergencia.
-* Lleva contigo un teléfono para la ocasión, que no haya sido usando o encendido en la zona en la que vives o en la zona segura en la que se encuentran los miembros vulnerables de tu comunidad. Destrúyelo o deshazte de él de manera segura, antes de llegar a casa.
+   * Quita la batería de tu móvil, si puedes, antes de llegar al lugar de la protesta y enciéndelo solo en caso de emergencia.
+   * Lleva contigo un teléfono para la ocasión, que no haya sido usando o encendido en la zona en la que vives o en la zona segura en la que se encuentran los miembros vulnerables de tu comunidad. Destrúyelo o deshazte de él de manera segura, antes de llegar a casa.
     
 ### Minimiza el rastreo por localización de tu teléfono
 _La policía tiene múltiples maneras de rastrearte a ti y a tu móvil. Si puede ser, deja el móvil en casa y no lo lleves contigo a las manifestaciones. Si no puedes, aquí tienes algunos consejos para minimizar el rastreo por localización._
@@ -131,7 +131,7 @@ _La policía tiene múltiples maneras de rastrearte a ti y a tu móvil. Si puede
 - Elimina el historial de búsqueda de tu buscador:
     * [Chrome](https://support.google.com/chrome/answer/95589?co=GENIE.Platform%3DAndroid&hl=en-GB)
     * [Safari](https://support.apple.com/en-us/HT201265)
-    * [Firefox iOS](https://support.mozilla.org/en-US/kb/clear-browsing-history-firefox-ios) and [Android](https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
+    * [Firefox iOS](https://support.mozilla.org/en-US/kb/clear-browsing-history-firefox-ios) y [Android](https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
 - Cierra sesión y elimina aplicaciones que no necesites.
 - Cierra sesión en redes sociales y elimina tu historial de búsquedas. 
 - Considera desactivar todos los servicios de localización de manera temporal:
@@ -188,6 +188,10 @@ _¿Qué pasa cuando estás en las calles pero no hay ningún medio que lo cubre?
 Si quieres consultar más información sobre documentación de protestas, manifestaciones y abusos policiales puedes consultar en Español  y en Inglés estas guías. 
 
 ### En Español
+Manifiesta primera línea Colombia 
+http://www.resumenlatinoamericano.org/2019/12/04/colombia-manifiesto-de-la-primera-linea/
+Primera linea Chile 
+https://radio.uchile.cl/2020/01/23/la-primera-linea-y-todas-las-lineas-del-levantamiento-social-en-plaza-de-la-dignidad/
 Witness: recursos para protestas en EEUU y América Latina
 https://es.witness.org/recursos/
 Materiales de prevención
