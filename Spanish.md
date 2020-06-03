@@ -10,7 +10,7 @@ Los gases lacrimógenos contienen varios componentes que, al hacer contacto con 
 
 Ten en cuenta que los consejos que damos en esta guía, para combatir el gas lacrimógeno y el gas pimiento, se basan en experiencias vividas en el terreno y no son consejos médicos oficiales. No podemos asegurar que cada método preventivo funcione 100%.
 
-Qué ropa llevar 🥾
+## Qué ropa llevar 🥾
 
 Generalmente, intenta taparte la piel. Si puedes, lleva gafas, camisetas de manga larga, pantalones largos, y zapatos con los que sepas que puedes correr.
 Gafas de natación o esquí ajustadas.
