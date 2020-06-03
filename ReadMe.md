@@ -15,7 +15,8 @@ _Tear gas contains several compounds that, when in contact with air or moisture,
 the mucous membrane of the eyes, nose, mouth and lungs. This causes your eyes to tear up, your nose to run, 
 and makes it difficult to breathe. Tear gas exposure can cause confusion, panic, anger, and other psychological effects, 
 therefore try to remain calm. Panic is contagious._ 
-_Keep in mind that **no prevention method will work 100%** and that this is not official medical advice. The following tips on tear gas and pepper spray are based on our experiences on the ground._
+
+_Kep in mind that the following tips on tear gas and pepper spray are based on our experiences on the ground and are not official medical adivce. **We can't guarantee that every prevention method will 100% work.**_
 
 ### Determining whether it is safe to attend a protest
 - Physically attending a protest introduces many risks from physical safety to increased surveillance of you and your community. 
