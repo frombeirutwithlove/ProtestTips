@@ -12,9 +12,9 @@ _Los gases lacrimógenos contienen varios componentes que, al hacer contacto con
 _Ten en cuenta que los consejos que damos en esta guía, para combatir el gas lacrimógeno y el gas pimienta, se basan en experiencias vividas en el terreno y no son consejos médicos oficiales. **No podemos asegurar que cada método preventivo funcione 100%.**_
 
 ### Decidir si es seguro o no ir a una protesta Determining whether it is safe to attend a protest
-_Participar físicamente en un protesta implica muchos riesgos para la seguridad física e incrementa la vigilancia hacia ti y tu comunidad.
-_Estar en una manifestación puede acabar en arresto o tener otras consecuencias legales que pueden poner a personas sin ciudadanía en riesgo de deportación.
-_Cuando analices si deberías asistir o no a la protesta, considera tanto el impacto que puede tener sobre ti como sobre las personas de tu alrededor.
+- Participar físicamente en un protesta implica muchos riesgos para la seguridad física e incrementa la vigilancia hacia ti y tu comunidad.
+- Estar en una manifestación puede acabar en arresto o tener otras consecuencias legales que pueden poner a personas sin ciudadanía en riesgo de deportación.
+- Cuando analices si deberías asistir o no a la protesta, considera tanto el impacto que puede tener sobre ti como sobre las personas de tu alrededor.
 
 ### Qué ropa usar 🥾
 - Generalmente, intenta taparte la piel. Si puedes, lleva gafas, camisetas de manga larga, pantalones largos, y zapatos con los que sepas que puedes correr.
@@ -96,7 +96,6 @@ _La policía tiene un equipo muy sofisticado de vigilancia. Asume que siempre es
 - Si la policía te pide ver tu teléfono, diles que no consientes que busquen dentro de él. A lo mejor, al dárselo, buscan en él más tarde, con un permiso, pero ya habrías dejado claro que no les habías dado permiso para ello. 
 
 ### Rastreo de teléfonos y Contact Tracing (seguimiento de contactos)
-_[Aquí](https://web.karisma.org.co/aplicaciones-de-rastreo-digital-de-contactos-para-que-zapatos-si-no-hay-casa/) encontrarás información sobre contact tracing en español._
 - En general, la policía puede rastrear a los asistentes de una protesta y su ubicación de dos maneras principales:
    * Datos del teléfono móvil ([en este artículo](https://recompilermag.com/issues/issue-8/demystifying-cellular-communication-a-gentle-introduction-to-cellular-networks/) encontrarás más detalles, en inglés, y en [este](https://myshadow.org/es/location-tracking), más en español):
       * Cada teléfono tendrá una identificación específica que la policía podrá relacionar con los registros de ubicación del proveedor de telefonía, o que puede ser usada para determinar la ubicación en tiempo real.
@@ -188,40 +187,63 @@ _¿Qué pasa cuando estás en las calles pero no hay ningún medio que lo cubre?
 Si quieres consultar más información sobre documentación de protestas, manifestaciones y abusos policiales puedes consultar en Español  y en Inglés estas guías. 
 
 ### En Español
+
 Manifiesta primera línea Colombia 
 http://www.resumenlatinoamericano.org/2019/12/04/colombia-manifiesto-de-la-primera-linea/
+
 Primera linea Chile 
 https://radio.uchile.cl/2020/01/23/la-primera-linea-y-todas-las-lineas-del-levantamiento-social-en-plaza-de-la-dignidad/
+
+Contract Tracing o Rastreo por Contactos
+https://web.karisma.org.co/aplicaciones-de-rastreo-digital-de-contactos-para-que-zapatos-si-no-hay-casa/
+
 Witness: recursos para protestas en EEUU y América Latina
 https://es.witness.org/recursos/
+
 Materiales de prevención
 https://informaterompeelmiedo.mx/materiales-de-prevencion/
+
 Apagones de Internet y censura en América Latina
 https://www.derechosdigitales.org/13924/apagones-de-internet-y-censura-en-america-latina/
+
 Consejos de seguridad digital para líderes sociales
 https://web.karisma.org.co/tips-de-seguridad-digital-para-lideres-sociales/
+
 Consejos de seguridad digital durante protestas sociales
 https://derechosdigitales.tumblr.com/post/188499861341/consejos-de-seguridad-para-la-protesta-social-m%C3%A1s?fbclid=IwAR31FkVUUKDWLXxvFkWx97Ql281b3hSOcYZEjLdpfu3Km5vpdESQ_KV4rAE
+
 Nois Radio: protocolos de protección y seguridad durante jornadas de paro
 https://www.facebook.com/photo.php?fbid=2619470714785108&set=pcb.2619470808118432&type=3&theater
+
 Nois Radio: como proteger tus archivos
 https://www.facebook.com/photo.php?fbid=2617335991665247&set=a.519481438117390&type=3&theater
+
 Consejos de seguridad digital para medios de comunicación independientes
 https://www.derechosdigitales.org/wp-content/uploads/manual-medios-independientes-1.pdf
+
 Recomendaciones de seguridad para antes, durante y después de una marcha o protesta
 https://socialtic.org/blog/recomendaciones-de-seguridad-para-antes-durante-y-despues-de-una-marcha-o-protesta/
+
 Seguridad durante protestas en EEUU
 https://ssd.eff.org/es/module/asistiendo-las-protestas-estados-unidos
 
 ### Medicina (en inglés)
+
 https://riotmedicine.net/static/downloads/riot-medicine.pdf
 
 ### Grabación (en inglés)
+
 https://library.witness.org/product/filming-in-teams-protests-demonstrations-rallies/
+
 https://www.witness.org/portfolio_page/filming-protests-and-police-abuse/
+
 https://blog.witness.org/2017/02/tips-livestreaming-protests-united-states/
-Manifestaciones y tus derechos (en inglés)
+
+### Manifestaciones y tus derechos (en inglés)
+
 https://www.vice.com/en_us/article/kze8dy/how-to-prepare-and-stay-safe-while-you-protest
+
 https://www.eff.org/issues/know-your-rights
+
 https://github.com/narwhalacademy/zebra-crossing
 
