@@ -11,7 +11,7 @@ _Los gases lacrimógenos contienen varios componentes que, al hacer contacto con
 
 _Ten en cuenta que los consejos que damos en esta guía, para combatir el gas lacrimógeno y el gas pimienta, se basan en experiencias vividas en el terreno y no son consejos médicos oficiales. **No podemos asegurar que cada método preventivo funcione 100%.**_
 
-### Decidir si es seguro o no ir a una protesta Determining whether it is safe to attend a protest
+### Decidir si es seguro o no ir a una protesta
 - Participar físicamente en un protesta implica muchos riesgos para la seguridad física e incrementa la vigilancia hacia ti y tu comunidad.
 - Estar en una manifestación puede acabar en arresto o tener otras consecuencias legales que pueden poner a personas sin ciudadanía en riesgo de deportación.
 - Cuando analices si deberías asistir o no a la protesta, considera tanto el impacto que puede tener sobre ti como sobre las personas de tu alrededor.
@@ -42,6 +42,7 @@ _Ten en cuenta que los consejos que damos en esta guía, para combatir el gas la
 ### Consejos para actuar de manera segura
 - No aparques tu coche/auto/carro/bici cerca del punto de encuentro de las protestas, así evitarás que la policía registre tu matrícula o dañe tu vehículo. Si puedes caminar a la protesta, hazlo.
 - Si vas a usar transporte público o alguna aplicación de transporte procura pagar en efectivo y bajarte unas cuadras/manzanas antes del lugar de encuentro de la manifestación para que no quede un rastro que las autoridades puedan seguir. 
+- Si no quieres que las camaras de vigilancia CCTV reconozcan tu rostro, ponte gafas de sol, gorra o pintate la cara.
 - Nunca asista solo a una manifestación o protesta. 
 - Permaneced en pares o en grupos pequeños para que notéis rápidamente si alguien ha sido arrestada, o ha desaparecido.
 - Ponte de acuerdo en una estrategia de salida y/o un punto de encuentro con tu grupo, por si se separan.
@@ -181,7 +182,7 @@ _¿Qué pasa cuando estás en las calles pero no hay ningún medio que lo cubre?
 - Asegúrate de grabar ángulos y, si puedes, entrevista gente que esté presenciando lo que ocurre (acuérdate de pedir permiso antes).
 - Cuando grabes un arresto, pídele a la persona que está siendo detenida, de manera clara y en voz alta, que griten su nombre completo.
 - Si estás grabando celebraciones, destrucciones, o incendios, piensa en mandar el video a alguien que no esté allí para que pueda emborronar o eliminar rostros de la grabación. En EEUU, hay muchos casos de arrestos hechos tras semanas, e incluso meses, después de las protestas.
-- Si estás documentando, procura proteger la identidad de otros manifestantes, hay algunas aplicaciones para esto como [obscuracam](https://play.google.com/store/apps/details?id=org.witness.sscphase1&hl=es_CO). 
+- Si estás documentando, procura proteger la identidad de otros manifestantes, hay algunas aplicaciones para esto como [obscuracam](https://play.google.com/store/apps/details?id=org.witness.sscphase1&hl=es_CO) o tambien puedes usar el "Blur Tool" de Signal. 
 
 ## Recursos adicionales
 Si quieres consultar más información sobre documentación de protestas, manifestaciones y abusos policiales puedes consultar en Español  y en Inglés estas guías. 
