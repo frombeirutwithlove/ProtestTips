@@ -202,8 +202,15 @@ need to get to safety. That’s why having a buddy doing lookout is necessary.
 - When filming an arrest, ask clearly and loudly that the person being arrested yells out their name. 
 - If you are documenting celebrations, destruction, burning, consider sending the video to someone who is away from the protest so they can blur and/or remove faces from the footage. In the USA, there is a history of arrest weeks and months after the protest.
 
+## How to help if you can't attend a protest
+_Attending a protest can be prohibitive for many reasons, including risk profile and economic. The following are some suggestions of how to support protestors and actions if you can't physically attend._
 
-
+- Monitor police and other white supremacist activies and report their movements to people at protests through a secure communication channel
+- Coordinate cop watch and police monitoring activities in neightborhoods with heightened police activity
+- Coordinate ICE and CBP monitoring and protection services (ICE and CBP have has a presence at protests)
+- Provide childchare for people attending protests
+- Help coordinate legal support and bail funds for arrested protestors
+- Provide and/or deliver supplies for protestors
 
 ## Additional Resources
 
