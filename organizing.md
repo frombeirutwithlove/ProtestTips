@@ -13,7 +13,7 @@ _The current US organizing environment relies heavily on technology. While this 
 ### Law Enforcement & Data Collection
 _This is a non-exhaustive list of some of the known methods and tools used by law enforcement to monitor political organizing. If possible, work with lawyers or organizations working on surveillance to help enforce legal protections against illegal data gathering and learn about the methods used for arrests or other law enforcement actions._
 
-_Note: Methods for data gathering are regulated by legislation and data sharing agreements between agencies. Because law enforcement agencies are not always lawful and m numerous agencies are involved in supressing political action, we do not differentiate data collection methods by legal boundaries of different agencies._
+_Note: Methods for data gathering are regulated by legislation and data sharing agreements between agencies. Because law enforcement agencies are not always lawful and numerous agencies are involved in suppressing political action, we do not differentiate data collection methods by legal boundaries of different agencies._
 
 - Social media monitoring
     * Posts that are public
@@ -22,17 +22,17 @@ _Note: Methods for data gathering are regulated by legislation and data sharing 
 - Communications metadata and content
     * Telephone networks (including cell phones)
         * Police have built strong relations with telephone communication providers and can have direct access to parts to call detail records and text metadata
-        * Call detail records, such as: which number is calling, which number is bneing called, when the call occurs, how long the call was, approximately where each phone number is located
-        * Text message metadata, such as: which number is sending a text, which number is receiving a text, when the message occured, how long the message is
+        * Call detail records, such as: which number is calling, which number is being called, when the call occurs, how long the call was, approximately where each phone number is located
+        * Text message metadata, such as: which number is sending a text, which number is receiving a text, when the message occurred, how long the message is
         * Text message content usually requires a warrant
-        * Real-time access to phone calls usually requires a wrrant
+        * Real-time access to phone calls usually requires a warrant
     * Internet service providers (ISP)
         * Which IP address/device accesses which websites and when
         * If the website does not use HTTPS, the ISP and law enforcement could see all of the content of the website
 - Non-public information provided to a web service, such as emails and direct messages, usually require a warrant or similar to access
 - Palantir is a known platform used by US law enforcement to help automate the gathering of public information (e.g., facebook posts, tweets, twitter followers, etc.) and visualize/analyze it
 
-### Thinking about tools amd services to use
+### Thinking about tools and services to use
 - Compliance with warrants and information requests will depend on the relationship of the company to the US.
     * Companies with an office in the US are required to comply with requests from US law enforcement.
     * Countries with close ties to the US share intelligence information (e.g., [Five Eyes countries](https://en.wikipedia.org/wiki/Five_Eyes)) and some can compel companies based in their country to share data with the US.
