@@ -1,4 +1,4 @@
-# # From Beirut To Minneapolis
+# From Beirut To Minneapolis
 ## A protest guide in solidarity
 
 _In solidarity with protesters in Minneapolis and other American cities, Lebanese technologists, 
