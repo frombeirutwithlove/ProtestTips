@@ -31,6 +31,7 @@ _Kep in mind that the following tips on tear gas and pepper spray are based on o
 - Use helmets (especially if you have a medical condition).
 - Avoid wearing lotion or oils on your skin. Pepper spray and tear gas stick to it and burn. 
 - Avoid jewelry, and anything that could get pulled or caught in something.
+- If concerned about being identified in photos (by law enforcement, media, and others), make sure any visible tattoos or other identifying marks are covered.
 
 ### What to keep in your bag 🎒
 - A bandana or mask cloth and a small bottle of cider vinegar (for tear gas, keep in mind that this should help 
