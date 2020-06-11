@@ -3,7 +3,7 @@
 
 _In solidarity with protesters in Minneapolis and other American cities, Lebanese technologists, 
 protesters, and activists put together this document as a guide for escalating protests and documenting police abuse. 
-We recognize that our experiences and lived realities are different, but in the same way that we’ve found solidarity 
+We recognize that our experiences and lived realities are different, but in the same way that we've found solidarity 
 with Hong Kong and Chile protesters, we wanted to extend ours to others._
 
 
