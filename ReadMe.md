@@ -3,7 +3,7 @@
 
 _In solidarity with protesters in Minneapolis and other American cities, Lebanese technologists, 
 protesters, and activists put together this document as a guide for escalating protests and documenting police abuse. 
-We recognize that our experiences and lived realities are different, but in the same way that we’ve found solidarity 
+We recognize that our experiences and lived realities are different, but in the same way that we've found solidarity 
 with Hong Kong and Chile protesters, we wanted to extend ours to others._
 
 
@@ -49,9 +49,9 @@ you for the short period of time you would need to get upwind or reach higher gr
 ### Behavioral safety tips 
 - Do not park your car/bike close to the protest site to prevent police from scanning your license plate 
 or damaging your bike/car. If you can walk to the protest, do it. 
-- Stay in pairs or in a small group of people so that they would notice in case you’re missing or get arrested. Have a buddy system.
+- Stay in pairs or in a small group of people so that they would notice in case you're missing or get arrested. Have a buddy system.
 - Decide on an exit strategy/meet up point with your group in case you get separated. 
-- Write a lawyer’s phone number on your arm with a marker and YELL OUT YOUR NAME, in case you’re arrested.
+- Write a lawyer's phone number on your arm with a marker and YELL OUT YOUR NAME, in case you're arrested.
 - If attacked by riot police DO NOT RUN, try to cover yourself and move away calmly (if with a group try 
 to form a circle and back away together).
 - Try to remain on the outer circles, so you can easily get out and move out of danger if things get heated.
@@ -59,13 +59,13 @@ to form a circle and back away together).
 - Some undercover cops might encourage protesters to be violent. Don't get provoked.
 - Once you get out of the protest - hide anything that may show that you were actually attending a protest (flags/banners/wet 
 clothing) 
-- Don’t go back home alone, police/undercover police may be waiting for you. 
+- Don't go back home alone, police/undercover police may be waiting for you. 
 - If you are using a gas mask, make sure to change the filters every day.
-- If you forget to turn off your location settings, take meandering routes to confuse your phone’s location 
+- If you forget to turn off your location settings, take meandering routes to confuse your phone's location 
 in case police are looking at phone location data.
 
 
-### If you're hit with tear gas / pepper spray
+### If you're hit with tear gas/pepper spray
 _Mace and pepper spray are  mostly the same thing. Mace is a brand name. Most Mace products today are OC based, with OC being the active capsicum ingredient in pepper spray.
 Tear gas used in the US is mostly aerosolized CS powder._
 
@@ -79,7 +79,7 @@ Tear gas used in the US is mostly aerosolized CS powder._
 - Hydrate: your body will try to flush the chemicals naturally, but to do so you must be well hydrated.
 - Street traffic cones can be a good hack to use and cover tear gas cannisters. The top of the cone is usually open, and you can pour water through to diffuse the can.
 
-### When you’re home
+### When you're home
 - Take a shower, making sure you let cold water wash over your eyes until the stinging is gone. Soap and 
 cold water should get rid of the chemicals from your skin. Hot water can make the burning worse. 
 - Get out of all your clothes and wash them separately in cold water. You might need to wash them several times to get rid
@@ -173,7 +173,7 @@ _Phone and communication security (e.g., using Signal or WhatsApp) is generally 
 - Protect your info online. Photos will be circulating online, and trolls have a habit of trying to identifying protesters and targeting them. Make sure your social accounts are secure. 
 
 ## In the event of a media blackout 
-_What happens if you’re on the streets but there are no media outlets covering? 
+_What happens if you're on the streets but there are no media outlets covering? 
 With no mainstream media keeping the authorities in check and covering in real time, police and 
 military are likely to take more brutal measures against protesters. Here are the best tips from 
 Lebanese protesters involved in the October revolution._
@@ -181,24 +181,24 @@ Lebanese protesters involved in the October revolution._
 ### Going live on social media 
 - Use the platform that will reach the most of your intended audience. 
 In the US, Twitter use is more important than Facebook use, so make sure you weigh the trade-offs when 
-you decide which platform you’re using when you go live. 
-- Try to keep your phone down if riot police are heavily deployed to avoid them noticing you’re filming. 
+you decide which platform you're using when you go live. 
+- Try to keep your phone down if riot police are heavily deployed to avoid them noticing you're filming. 
 The sounds will still be clear in your live coverage.
-- If you’re live on Facebook, the video will be saved in case it is interrupted by arrest or by locking the phone.
-- If you’re live on Instagram and get interrupted, the video won’t be saved to your story for 24 hours and you won’t have the option to save it to your phone. That’s why Facebook live is a better option.
-- If you want to go live on Twitter from your phone, you will have to download Periscope. Keep in mind that Periscope’s video quality is less clear than Facebook’s. 
+- If you're live on Facebook, the video will be saved in case it is interrupted by arrest or by locking the phone.
+- If you're live on Instagram and get interrupted, the video won't be saved to your story for 24 hours and you won't have the option to save it to your phone. That's why Facebook live is a better option.
+- If you want to go live on Twitter from your phone, you will have to download Periscope. Keep in mind that Periscope's video quality is less clear than Facebook's. 
 
 ### Filming police abuse and arrests
-- Charge your phone and keep a portable charger. Your phone is all you’ll need. 
+- Charge your phone and keep a portable charger. Your phone is all you'll need. 
 Your camera can be cumbersome and heavy when you need to start running. Keep it at home. 
 - In the US, it is legal to film the police as long as you don't interfere and comply if asked to back up.
 - Police should not ask you to delete videos.
 - If safe, film details like police badges, license plates, weapons, etc.
 - Identify yourself and the time, date, and location. If your location services are off, 
 film intersections or street corners to identify the location and newspapers or some other media with the date and time. 
-- Don’t film alone, always have a buddy protecting your back when things get heated. 
-When riot police come charging at you while you’re filming, your adrenaline will be too high for you to notice you 
-need to get to safety. That’s why having a buddy doing lookout is necessary. 
+- Don't film alone, always have a buddy protecting your back when things get heated. 
+When riot police come charging at you while you're filming, your adrenaline will be too high for you to notice you 
+need to get to safety. That's why having a buddy doing lookout is necessary. 
 - Make sure to film angles and if you can, conduct eye-witness interviews (make sure to ask for permission first). 
 - When filming an arrest, ask clearly and loudly that the person being arrested yells out their name. 
 - If you are documenting celebrations, destruction, burning, consider sending the video to someone who is away from the protest so they can blur and/or remove faces from the footage. In the USA, there is a history of arrest weeks and months after the protest.
