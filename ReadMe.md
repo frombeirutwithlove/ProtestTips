@@ -216,7 +216,10 @@ _Attending a protest can be prohibitive for many reasons, including risk profile
 ## Additional Resources
 
 ### Medicine 
-https://riotmedicine.net/static/downloads/riot-medicine.pdf
+
+https://riotmedicine.net/static/downloads/riot-medicine-en.pdf
+
+https://riotmedicine.net/static/downloads/riot-medicine-field-guide.pdf
 
 ### Filming
 
